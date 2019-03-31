@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/abbeyhaus/static/media/fridge.608d40fa.svg"
   },
   {
-    "revision": "505c30e8f7e6aef76301",
+    "revision": "3e4eb156691b133e3847",
     "url": "/abbeyhaus/static/css/main.6a2d6fe0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/abbeyhaus/static/media/logo.f50cbf74.svg"
   },
   {
-    "revision": "505c30e8f7e6aef76301",
-    "url": "/abbeyhaus/static/js/main.0b68b1dc.chunk.js"
+    "revision": "3e4eb156691b133e3847",
+    "url": "/abbeyhaus/static/js/main.d2636685.chunk.js"
   },
   {
     "revision": "4a5a28531fa4a63a974e76f32a098a4c",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/abbeyhaus/static/media/key.5929b826.svg"
   },
   {
-    "revision": "bc337d6f69fb0d042ffa589518f46a90",
+    "revision": "9809ac1d0ac4944640d3e2998469dd1f",
     "url": "/abbeyhaus/index.html"
   }
 ];
