@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/abbeyhaus/precache-manifest.9c771c4b9129be2c51f56264e8910724.js"
+  "/abbeyhaus/precache-manifest.aa28e3b3655d48f6ee2d4f040d92804d.js"
 );
 
 workbox.clientsClaim();
